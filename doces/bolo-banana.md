@@ -22,15 +22,17 @@
 - Despeje na assadeira e manda pro forno
 - 30 minutos no mínimo, vá cuidando de 5 em 5
 
-#### Extras
+---
 
-### Bolo invertido com calda
+### Extras
+
+#### Bolo invertido com calda
 
 - Espalhe 5 colheres de sopa de açúcar no fundo da assadeira;
 - Corte bananas em tiras, o suficiente para forrar o fundo da assadeira;
 - Feito isso despeje a massa na assadeira
 
-### Calda para finalizar
+#### Calda para finalizar
 
 - Caramelo simples com 1 xícara de açúcar, 1/2 xícara de água e um pau de canela.
 - Reduza em fogo baixo mexendo as vezes para não grudar até engrossar.
